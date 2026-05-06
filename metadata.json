@@ -1,0 +1,8 @@
+{
+  "name": "SkyGuard: Weather & Safety",
+  "description": "A high-performance weather dashboard with an integrated SOS safety check-in system and 3D UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
